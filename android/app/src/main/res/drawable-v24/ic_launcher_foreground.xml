@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="459.4203"
+    android:viewportHeight="459.4203">
+  <group android:translateX="71.210144"
+      android:translateY="71.210144">
+    <path
+        android:pathData="M316,0V176.42A158.57,158.57 0,0 1,176.42 316H140.58A158.52,158.52 0,0 1,0 158.5V0Z">
+      <aapt:attr name="android:fillColor">
+        <gradient 
+            android:startY="13.14"
+            android:startX="158"
+            android:endY="209.79"
+            android:endX="158"
+            android:type="linear">
+          <item android:offset="0" android:color="#FFED9D57"/>
+          <item android:offset="1" android:color="#FFED7E57"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+    <path
+        android:pathData="M316,140.6l-0.06,-0.54 -16.5,0.94c-67,7.26 -140.44,52 -140.44,52S67,158 0,158V316H140.58a161.06,161.06 0,0 0,35.84 0H316V176.42a160.88,160.88 0,0 0,0 -35.82Z">
+      <aapt:attr name="android:fillColor">
+        <gradient 
+            android:startY="140.06"
+            android:startX="158.5"
+            android:endY="317"
+            android:endX="158.5"
+            android:type="linear">
+          <item android:offset="0" android:color="#FFF3AE9D"/>
+          <item android:offset="1" android:color="#FFF39382"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+    <path
+        android:pathData="M135.5,201L180.5,201A14.5,14.5 0,0 1,195 215.5L195,227.5A14.5,14.5 0,0 1,180.5 242L135.5,242A14.5,14.5 0,0 1,121 227.5L121,215.5A14.5,14.5 0,0 1,135.5 201z"
+        android:fillColor="#093446"/>
+    <path
+        android:pathData="M251,134.5c0,9.66 -7.84,-0.5 -17.5,-0.5s-17.5,10.16 -17.5,0.5a17.5,17.5 0,0 1,35 0Z"
+        android:fillColor="#093446"/>
+    <path
+        android:pathData="M100,134.5c0,9.66 -7.84,-0.5 -17.5,-0.5S65,144.16 65,134.5a17.5,17.5 0,0 1,35 0Z"
+        android:fillColor="#093446"/>
+  </group>
+</vector>
