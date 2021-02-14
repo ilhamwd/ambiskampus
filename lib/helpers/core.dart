@@ -14,14 +14,13 @@ bool isNull(v) {
 
 // FRONTEND HANDLER
 class Handler extends Config {
-  String token = "vgnm3GJ9AxEyaweujRKQi4N07dMpSzlbDCWYfoHU2qZThkVOt8";
+  String token;
   UserData userData = UserData();
   List<Akun> userAkun;
 
   Handler() {
     // Initialization
-    //this.getToken().then(this.init).catchError(this.networkError);
-    this.init(this.token);
+    this.getToken().then(this.init).catchError(this.networkError);
   }
   void init(String token) {
     this.token = token;
