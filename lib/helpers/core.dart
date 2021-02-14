@@ -12,8 +12,7 @@ bool isNull(v) {
       (type == int && v == 0);
 }
 
-// YA ALLAH LEMOTE POK
-// NEK WES CANDAK FUP
+// FRONTEND HANDLER
 class Handler extends Config {
   String token;
   UserData userData = UserData();
