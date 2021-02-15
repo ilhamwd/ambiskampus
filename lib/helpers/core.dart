@@ -31,7 +31,7 @@ class Handler extends Config {
           'no_siswa': userData.no_siswa.toString()
         }).then((v) => this.userAkun = Akun.register(jsonDecode(v.body)).data);
   }
-
+"i hate you more than i should";
   Future<http.Response> request(
       {url,
       post: false,
