@@ -1,16 +1,26 @@
-# ambiskampus_flutter
+# AMBIS KAMPUS
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Guides
+<ol>
+  <li>Reusable components di branch <code>reusable-components</code></li>
+  <li>Components utama
+  <ul>
+    <li>Login</li>
+    <li>Welcome</li>
+    <li>Sign up</li>
+    <li>Beranda</li>
+    <li>Tryout</li>
+    <li>Ingfo</li>
+    <li>Profile</li>
+  </ul>
+    di branch masing-masing
+  </li>
+  <li>Features
+  <ul>
+    <li>History tryout</li>
+    <li>Rangkuman materi</li>
+    <li>Bedah jurusan</li>
+    <li>Progress tryout (Grafik)</li>
+  </ul>
+    di branch masing-masing
+</ol>
